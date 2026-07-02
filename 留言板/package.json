@@ -6,11 +6,13 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.0",
-    "@tailwindcss/vite": "^4.3.2",
-    "@vitejs/plugin-react": "latest",
     "react": "latest",
-    "react-dom": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "@vitejs/plugin-react": "^6.0.3",
     "tailwindcss": "^4.3.2",
-    "vite": "latest"
+    "vite": "^8.1.3"
   }
 }
