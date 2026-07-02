@@ -6,7 +6,7 @@ import re
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
-
+ 
 
 ROOT = Path(__file__).resolve().parent
 SOURCE_HTML = Path(r"C:\Users\1115\Downloads\Kassa's ALGS Statistics _ VK GAMING.html")
